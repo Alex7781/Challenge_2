@@ -6,10 +6,12 @@
 [Tt]emp/
 [Oo]bj/
 [Ll]ogs/
-[Mm]emoryCaptures/
+[Uu]ser[Ss]ettings/
+
 
 
 # MemoryCaptures can get excessive in size.
+[Mm]emoryCaptures/
 # They also could contain extremely sensitive data
 
 
